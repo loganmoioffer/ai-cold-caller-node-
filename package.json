@@ -1,0 +1,17 @@
+{
+  "name": "ai-cold-caller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.13.0",
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3"
+  }
+}
